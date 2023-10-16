@@ -21,11 +21,8 @@
     "incremental": true,
     "baseUrl": ".",
     "paths": {
-      "@components/*": [
-        "src/components/*"
-      ],
-      "@lib/*": [
-        "src/lib/*"
+      "@common/*": [
+        "src/common/*"
       ]
     },
     "plugins": [
